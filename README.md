@@ -1,1 +1,1 @@
-# weather-application-signing-bygoogle
+-Signing by google account and forecast weather by user's specification location
